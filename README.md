@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Web Developer from Nepal</h3>
 
 <img align='right' width="400" height="300" alt='coding' src='https://miro.medium.com/v2/resize:fit:828/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif' >
-<img align='left' width='350' height='300' src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif"width="900"/>
+<img align='left' width='350' height='300' src="https://media.licdn.com/dms/image/v2/D4D12AQH5i_pk9_lOGw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1697089776871?e=2147483647&v=beta&t=_uEIAcTgpuOE2Xv5o_2XHBw73bUlJxvnQhcORE_fh5M"width="900"/>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
