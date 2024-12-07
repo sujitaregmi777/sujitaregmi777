@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sujita Regmi</h1>
 <h3 align="center">A passionate Web Developer from Nepal</h3>
 
-<img align='right' width="400" height="300" alt='coding' src='https://giphy.com/embed/j2N7UGDJ9tIbQwTlHv' >
+<img align='right' width="400" height="300" alt='coding' src='https://miro.medium.com/v2/resize:fit:828/format:webp/1*BIpRgx5FsEMhr1k2EqBKFg.gif' >
 <img align='left' width='350' height='300' src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif"width="900"/>
 
 
