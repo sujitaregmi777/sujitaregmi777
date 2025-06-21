@@ -30,13 +30,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashim-gautam-01443b2b1" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujita regmi" height="30" width="40" />
   </a>
-  <a href="" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashim.gautam" height="30" width="40" />
+  <a href="https://www.facebook.com/sujita.regmi.752861" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sujita regmi" height="30" width="40" />
   </a>
-  <a href="" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ashim_gautam" height="30" width="40" />
+  <a href="https://www.instagram.com/sujitaregmi189/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sujita_regmi" height="30" width="40" />
   </a>
 </p>
 
