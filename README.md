@@ -11,7 +11,7 @@
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-- 🔭 I’m currently working on *java**
+- 🔭 I’m currently working on *django**
 - 🌱 I’m learning **React, Node.js, java, and more**
 - 👯 I’m looking to collaborate with new peoples
 - 💬 Ask me about **java, javascript,c#, C/C++**
